@@ -6,7 +6,7 @@ My dream? To create innovations that don't just stay in research papers but make
 
 📫 How to Reach Me:
 Email: mjammal@ucsd.edu
-LinkedIn: linkedin.com/in/mariam-jammal
+LinkedIn: https://www.linkedin.com/in/mariam-jammal/
 
 🛠 Tech Stack:
 Languages: Python, Java
