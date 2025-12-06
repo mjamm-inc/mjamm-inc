@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--I'm Mariam, a second-year Bioengineering: Bioinformatics student in the Revelle Honors Program at UC San Diego!
 Currently, I'm bridging computational biology and AI as a Bioinformatics Researcher at UCSD's Department of Medicine, an AI/ML Fellow at Salesforce in collaboration with Break Through Tech AI, and a Code Coach teaching the next generation of programmers. I've previously explored the intersection of education and technology as an Instructional Assistant for 100+ students across Biology, Math, and Computer Science departments, and earned a Machine Learning Foundations certificate from Cornell University.
